@@ -23,3 +23,21 @@ Use at least 5 different HTML elements.
 Ensure semantic correctness.
 
 Good luck and happy coding! 🚀💻
+
+# My Multi-Page Website
+
+## 📝 Description
+A responsive website with Home, About, and Contact pages.
+
+## 🛠️ Technologies
+- HTML5
+- CSS3
+- JavaScript
+
+## 🚀 Live Demo
+[View Live Site](https://your-deployed-url.com)
+
+## 🔧 Setup
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
